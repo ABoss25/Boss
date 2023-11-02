@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First Page</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<nav>link to page 2</nav>
+<div>
+    <div>Content Box</div>
+</div>
+<div>second half of page</div>
+
+
+
+
+</body>
+</html>
